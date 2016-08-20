@@ -1,7 +1,7 @@
 <VirtualHost *:80>
 
         ServerName laravel.tappi.com
-        DocumentRoot /var/www/laravel/public/tappi
+        DocumentRoot /var/www/laravel/public
 
         <Directory />
                 Options FollowSymLinks
